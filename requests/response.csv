@@ -1,0 +1,3 @@
+ID,Email,MobileNumber,Response,Response_code
+123456.0,Test123456@gmail.com,9999123456,"{""status"": ""success"", ""message"": ""Your request has been accepted and will be processed soon.""}",200
+,Test156@gmail.com,9999123456,"{""status"": ""success"", ""message"": ""Your request has been accepted and will be processed soon.""}",200
